@@ -5,4 +5,9 @@ Opdracht1.1: ik heb een huis gemaakt met behulp van 3d objects en materials.
 Opdracht 1.2: ik heb een gamingprofile gamaakt doormideel van het maken van een scriot met debug.log.
 ![gamingprofiletsats (1 2)](https://github.com/user-attachments/assets/22783889-2945-4e31-83a5-2571bd9130c8)
 
+opdracht 2.1: Ik heb een draaiend mintje gemaakt doormiddel van het gebruiken van een cilinder en een material. ook heb ik een scriot aan het object vastgemaaakt waardoor het muntje beweegt.
+![draaiend muntje (2 1)](https://github.com/user-attachments/assets/04d8a816-ae36-4c03-ba19-a834d03bef96)
+
+
+
 
