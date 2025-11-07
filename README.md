@@ -16,3 +16,8 @@ Opdracht 3.1: ik heb een vallende ball met een stuiter gemaakt.
 
 Opdracht 3.2: ik hbe een musicplayer gamaakt met behulp van void, strings en bools:
 
+
+Opdracht 5.1: ik heb een healthstatus gemaakt.
+![Healthstatus (5 1)](https://github.com/user-attachments/assets/9911d48a-ebee-4e41-abdc-c8d7aae1a5b3)
+
+
