@@ -8,6 +8,9 @@ Opdracht 1.2: ik heb een gamingprofile gamaakt doormideel van het maken van een 
 opdracht 2.1: Ik heb een draaiend mintje gemaakt doormiddel van het gebruiken van een cilinder en een material. ook heb ik een scriot aan het object vastgemaaakt waardoor het muntje beweegt.
 ![draaiend muntje (2 1)](https://github.com/user-attachments/assets/04d8a816-ae36-4c03-ba19-a834d03bef96)
 
+Opdracht 2.2: ik heb een gamingstats dashboard gemaakt doormiddel van public int.
+![Gamingstatsdashboard (2 2)](https://github.com/user-attachments/assets/659aef95-6817-45df-9b9e-742c900ca567)
+
 
 
 
