@@ -11,10 +11,8 @@ opdracht 2.1: Ik heb een draaiend mintje gemaakt doormiddel van het gebruiken va
 Opdracht 2.2: ik heb een gamingstats dashboard gemaakt doormiddel van public int.
 ![Gamingstatsdashboard (2 2)](https://github.com/user-attachments/assets/659aef95-6817-45df-9b9e-742c900ca567)
 
-Opdracht 3.1: ik heb een vallende ball met een stuiter gemaakt. 
-
-
-Opdracht 3.2: ik hbe een musicplayer gamaakt met behulp van void, strings en bools:
+Opdracht 4.1 en 4.2: Ik heb een coin collecting en coin pickup system gemaakt:
+![Schermopname2025-11-07om12 54 12-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8a5f57b7-654e-47d6-8002-0f25be9cbd11)
 
 
 Opdracht 5.1: ik heb een healthstatus gemaakt.
