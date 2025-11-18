@@ -19,3 +19,6 @@ Opdracht 5.1: ik heb een healthstatus gemaakt.
 ![Healthstatus (5 1)](https://github.com/user-attachments/assets/9911d48a-ebee-4e41-abdc-c8d7aae1a5b3)
 
 PERIODE 2_______________________________________________________________________________________
+
+Opdracht 1.1: ik heb een inventory gemaakt in unity.
+![opdracht 1 1 p2](https://github.com/user-attachments/assets/b01b2bb8-fea2-4de2-9366-6db5cfbe92a6)
