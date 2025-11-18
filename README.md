@@ -18,4 +18,4 @@ Opdracht 4.1 en 4.2: Ik heb een coin collecting en coin pickup system gemaakt:
 Opdracht 5.1: ik heb een healthstatus gemaakt.
 ![Healthstatus (5 1)](https://github.com/user-attachments/assets/9911d48a-ebee-4e41-abdc-c8d7aae1a5b3)
 
-
+PERIODE 2_______________________________________________________________________________________
